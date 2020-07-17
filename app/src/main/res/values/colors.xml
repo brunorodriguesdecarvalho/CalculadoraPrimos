@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="corAtividade">#C9CE9E</color>
+    <color name="corFundo">#CDF8FFD0</color>
+    <color name="cordivisores">#C8FAF6E8</color>
+</resources>
